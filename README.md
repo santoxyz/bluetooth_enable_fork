@@ -4,6 +4,8 @@ BluetoothEnable is a Bluetooth plugin for [Flutter](https://www.flutter.io), to 
 
 This plugin was created with the intention to allow developers to customise their own application workflow on when permissions are requested.
 
+This is a fork of the original [bluetooth_enable_fork](https://pub.dev/packages/bluetooth_enable_fork) due to lack of maintenance of that package.
+
 ## Usage
 
 ### Enable Bluetooth
