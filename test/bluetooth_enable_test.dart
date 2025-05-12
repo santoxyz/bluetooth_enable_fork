@@ -1,6 +1,6 @@
+import 'package:bluetooth_enable_plus/bluetooth_enable_fork.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:bluetooth_enable_fork/bluetooth_enable_fork.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('bluetooth_enable');
