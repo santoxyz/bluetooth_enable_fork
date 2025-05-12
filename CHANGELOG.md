@@ -1,3 +1,6 @@
+## 0.1.7
+* Fixes according to flutter version 3.29.3
+
 ## 0.1.6
 * Bluetooth can be activated on Android 13
 
